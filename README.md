@@ -14,8 +14,8 @@
 >- 5. Shared Datasets [Output](#2_5)
 
 3. Creating First Report
->- Creating report
->- Preview report
+>- 1. Creating report [Output](#3_1)
+>- 2. Preview report [Output](#3_2)
 
 4. Formatting, Sorting, Grouping 
 
@@ -32,4 +32,6 @@ FROM            Production.Product
 ORDER BY [Product Name], [List Price]
 ```
 
-### 3
+### 3_1
+### 3_2
+![image](https://github.com/hashinil/SSRS/assets/33922245/bf74dcf9-2847-4472-a957-1cc9f38e6b85)
