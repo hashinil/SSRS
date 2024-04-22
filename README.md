@@ -16,6 +16,8 @@
 3. Creating First Report
 >- 1. Creating report [Output](#3_1)
 >- 2. Preview report [Output](#3_2)
+>- 3. Recreating report (not using the Report Wizard)
+>- 4. Properties pane
 
 4. Formatting, Sorting, Grouping 
 
