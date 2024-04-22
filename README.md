@@ -14,7 +14,8 @@
 >- 5. Shared Datasets [Output](#2_5)
 
 4. Creating First Report
-5. FOrmatting, Sorting, Grouping 
+>- 
+6. Formatting, Sorting, Grouping 
 
 
 
@@ -22,3 +23,4 @@
 ![image](https://github.com/hashinil/SSRS/assets/33922245/8efa83a9-7305-4d10-afc7-cd2e175e036f)
 
 ### 2_5
+![image](https://github.com/hashinil/SSRS/assets/33922245/5bff90be-b093-498d-ba2c-0a51a7fd0278)
