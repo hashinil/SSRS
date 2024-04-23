@@ -22,14 +22,17 @@
 4. Formatting, Sorting, Grouping, visibility and table headers [Output](#4)
 
 5. Creating a Drillthrough report
+>- 1. Creating catogorised report [Output](#5_1)
+>- 2. Adding parameters to report [Output](#5_2)
+>- 3. Creating hyperlinks from one report to another [Output](#5_3)
 
 6. More advanced techniques
 
-7. Conditional formatting, Indicators, Gauges, Totals, Interactive sorting, Doc map
+8. Conditional formatting, Indicators, Gauges, Totals, Interactive sorting, Doc map
 
-8. Graphical Reports
+9. Graphical Reports
 
-9. 
+10. 
 
 
 
@@ -51,6 +54,17 @@ ORDER BY [Product Name], [List Price]
 ### 4
 ![image](https://github.com/hashinil/SSRS/assets/33922245/a307619b-2dde-4e7f-99be-b0e43ab5aad3)
 ![image](https://github.com/hashinil/SSRS/assets/33922245/1e11a9b3-6a1d-4b66-9cc1-406cc5d6cf72)
+
+### 5_1
+![image](https://github.com/hashinil/SSRS/assets/33922245/1dffa48b-595b-4c6c-a647-9ebfc0a2bd73)
+![image](https://github.com/hashinil/SSRS/assets/33922245/4de2eb23-b4c1-41a2-930a-43140d3cb4f3)
+
+### 5_2
+![image](https://github.com/hashinil/SSRS/assets/33922245/db9cac74-0a57-481a-9b16-ae6c12067d47)
+
+### 5_3
+![image](https://github.com/hashinil/SSRS/assets/33922245/b6975912-f61c-425e-8d23-fa044c4a081b)
+![image](https://github.com/hashinil/SSRS/assets/33922245/cd3435c0-ec1e-4c13-80dd-5eead64ec454)
 
 
 
