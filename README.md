@@ -19,7 +19,17 @@
 >- 3. Recreating report (not using the Report Wizard)
 >- 4. Properties pane
 
-4. Formatting, Sorting, Grouping 
+4. Formatting, Sorting, Grouping, visibility and table headers [Output](#4)
+
+5. Creating a Drillthrough report
+
+6. More advanced techniques
+
+7. Conditional formatting, Indicators, Gauges, Totals, Interactive sorting, Doc map
+
+8. Graphical Reports
+
+9. 
 
 
 
@@ -37,3 +47,10 @@ ORDER BY [Product Name], [List Price]
 ### 3_1
 ### 3_2
 ![image](https://github.com/hashinil/SSRS/assets/33922245/bf74dcf9-2847-4472-a957-1cc9f38e6b85)
+
+### 4
+![image](https://github.com/hashinil/SSRS/assets/33922245/a307619b-2dde-4e7f-99be-b0e43ab5aad3)
+![image](https://github.com/hashinil/SSRS/assets/33922245/1e11a9b3-6a1d-4b66-9cc1-406cc5d6cf72)
+
+
+
