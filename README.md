@@ -26,14 +26,19 @@
 >- 2. Adding parameters to report [Output](#5_2)
 >- 3. Creating hyperlinks from one report to another [Output](#5_3)
 
+ 
 6. More advanced techniques
+>- 1. Adding Sub report
+>- 2. Page Headres and footers
+>- 3. Adding dropdown list to parameters
+>- 4. Allow multiple values to be selected in parameters
+>- 5. Allowing NULLs in parameters
 
 8. Conditional formatting, Indicators, Gauges, Totals, Interactive sorting, Doc map
 
 9. Graphical Reports
 
 10. 
-
 
 
 ### 2_4
