@@ -28,10 +28,10 @@
 
  
 6. More advanced techniques
->- 1. Adding Sub report
->- 2. Page Headres and footers
->- 3. Adding dropdown list to parameters
->- 4. Allow multiple values to be selected in parameters
+>- 1. Adding Sub report [Output] (#6_1) 
+>- 2. Page Headres and footers (#6_2) 
+>- 3. Adding dropdown list to parameters (#6_3)
+>- 4. Allow multiple values to be selected in parameters (#6_4)
 >- 5. Allowing NULLs in parameters
 
 8. Conditional formatting, Indicators, Gauges, Totals, Interactive sorting, Doc map
@@ -71,5 +71,17 @@ ORDER BY [Product Name], [List Price]
 ![image](https://github.com/hashinil/SSRS/assets/33922245/b6975912-f61c-425e-8d23-fa044c4a081b)
 ![image](https://github.com/hashinil/SSRS/assets/33922245/cd3435c0-ec1e-4c13-80dd-5eead64ec454)
 
+### 6_1
+![image](https://github.com/hashinil/SSRS/assets/33922245/bdc1bfb1-0729-4140-b404-94987a6c64b1)
+![image](https://github.com/hashinil/SSRS/assets/33922245/44e23820-e2e3-4a3c-b1d3-134105fdf96b)
 
+### 6_2
+![image](https://github.com/hashinil/SSRS/assets/33922245/89959eb5-381d-4162-bb0f-460edbb0a0d9)
+![image](https://github.com/hashinil/SSRS/assets/33922245/6f980740-dddd-453e-b43f-7840a8fbb6d6)
 
+### 6_3
+![image](https://github.com/hashinil/SSRS/assets/33922245/128c0ffc-769d-40bc-ab6d-ba1e8598dfeb)
+![image](https://github.com/hashinil/SSRS/assets/33922245/86d0028d-4248-4e52-85df-567fc6627930)
+
+### 6_4
+![image](https://github.com/hashinil/SSRS/assets/33922245/6aa357ee-3383-491d-bc53-271a21ec12df)
