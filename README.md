@@ -40,11 +40,8 @@
 >- 4. Adding totals [Output](#7_4)
 >- 5. Interactive Sorting and Document Map [Output](#7_5)
 
-
-
-
 8. Graphical Reports
->- 1. Creating a pie chart [Output](#7_5)
+>- 1. Creating a pie chart [Output](#8_1)
 >- 2. Expanding the pie chart [Output](#7_5)
 >- 3. Creating a bar chart [Output](#7_5)
 >- 4. Expanding the chart and adding a Matrix [Output](#7_5)
@@ -132,4 +129,11 @@ Font color, background, Indicator, databar
 ![image](https://github.com/hashinil/SSRS/assets/33922245/99f54fd8-83bc-4040-a1e9-5e2292551be7)
 ![image](https://github.com/hashinil/SSRS/assets/33922245/9e4e3f25-ec45-4351-9daa-c4185394b4da)
 
+### 8_1
+![image](https://github.com/hashinil/SSRS/assets/33922245/6e67031a-3c11-4845-812e-0a9c4f381b10)
+![image](https://github.com/hashinil/SSRS/assets/33922245/41a9f1b8-2338-4d33-a6a5-7cc017970fd2)
 
+### 8_2
+![image](https://github.com/hashinil/SSRS/assets/33922245/66c7d384-9bfc-4d36-b69e-b2e82ff91387)
+
+### 8_3
