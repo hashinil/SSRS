@@ -116,8 +116,7 @@ ORDER BY [Product Name], [List Price]
 
 ### 7_1
 ![image](https://github.com/hashinil/SSRS/assets/33922245/55216269-687c-4b90-b4fb-678918cc0d74)
-
-### 7_2
 ![image](https://github.com/hashinil/SSRS/assets/33922245/a3d59749-6c87-467d-80d4-687237bf7b3f)
 
+### 7_2
 
