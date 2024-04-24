@@ -119,4 +119,17 @@ ORDER BY [Product Name], [List Price]
 ![image](https://github.com/hashinil/SSRS/assets/33922245/a3d59749-6c87-467d-80d4-687237bf7b3f)
 
 ### 7_2
+Font color, background, Indicator, databar
+![image](https://github.com/hashinil/SSRS/assets/33922245/f3ef16a6-5434-4960-aab9-5eb844530b7b)
+
+### 7_3
+![image](https://github.com/hashinil/SSRS/assets/33922245/b1a5b157-0393-4d73-8ec1-0ee0cda83fca)
+
+### 7_4
+![image](https://github.com/hashinil/SSRS/assets/33922245/3778ac5a-a5d7-49a8-93ab-ea472f583da4)
+
+### 7_5
+![image](https://github.com/hashinil/SSRS/assets/33922245/99f54fd8-83bc-4040-a1e9-5e2292551be7)
+![image](https://github.com/hashinil/SSRS/assets/33922245/9e4e3f25-ec45-4351-9daa-c4185394b4da)
+
 
