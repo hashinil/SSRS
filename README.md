@@ -25,7 +25,6 @@
 >- 1. Creating catogorised report [Output](#5_1)
 >- 2. Adding parameters to report [Output](#5_2)
 >- 3. Creating hyperlinks from one report to another [Output](#5_3)
-
  
 6. More advanced techniques
 >- 1. Adding Sub report [Output](#6_1) 
@@ -34,17 +33,15 @@
 >- 4. Allow multiple values to be selected in parameters [Output](#6_4)
 >- 5. Allowing NULLs in parameters [Output](#6_5)
 
-
-
-
-
-
 7. Conditional formatting, Indicators, Gauges, Totals, Interactive sorting, Doc map
 >- 1. Conditional Formatting [Output](#7_1) 
 >- 2. Indicators [Output](#7_2)
 >- 3. Gauges [Output](#7_3)
 >- 4. Adding totals [Output](#7_4)
 >- 5. Interactive Sorting and Document Map [Output](#7_5)
+
+
+
 
 8. Graphical Reports
 >- 1. Creating a pie chart [Output](#7_5)
@@ -116,3 +113,11 @@ ORDER BY [Product Name], [List Price]
 
 ### 6_5
 ![image](https://github.com/hashinil/SSRS/assets/33922245/53c0843a-55d9-4cd7-a2f2-354b0b7fbe1c)
+
+### 7_1
+![image](https://github.com/hashinil/SSRS/assets/33922245/55216269-687c-4b90-b4fb-678918cc0d74)
+
+### 7_2
+![image](https://github.com/hashinil/SSRS/assets/33922245/a3d59749-6c87-467d-80d4-687237bf7b3f)
+
+
