@@ -28,18 +28,46 @@
 
  
 6. More advanced techniques
->- 1. Adding Sub report [Output] (#6_1) 
->- 2. Page Headres and footers (#6_2) 
->- 3. Adding dropdown list to parameters (#6_3)
->- 4. Allow multiple values to be selected in parameters (#6_4)
->- 5. Allowing NULLs in parameters
+>- 1. Adding Sub report [Output](#6_1) 
+>- 2. Page Headres and footers [Output](#6_2) 
+>- 3. Adding dropdown list to parameters [Output](#6_3)
+>- 4. Allow multiple values to be selected in parameters [Output](#6_4)
+>- 5. Allowing NULLs in parameters [Output](#6_5)
 
-8. Conditional formatting, Indicators, Gauges, Totals, Interactive sorting, Doc map
 
-9. Graphical Reports
 
-10. 
 
+
+
+7. Conditional formatting, Indicators, Gauges, Totals, Interactive sorting, Doc map
+>- 1. Conditional Formatting [Output](#7_1) 
+>- 2. Indicators [Output](#7_2)
+>- 3. Gauges [Output](#7_3)
+>- 4. Adding totals [Output](#7_4)
+>- 5. Interactive Sorting and Document Map [Output](#7_5)
+
+8. Graphical Reports
+>- 1. Creating a pie chart [Output](#7_5)
+>- 2. Expanding the pie chart [Output](#7_5)
+>- 3. Creating a bar chart [Output](#7_5)
+>- 4. Expanding the chart and adding a Matrix [Output](#7_5)
+>- 5. Mapping data [Output](#7_5)
+
+9. Object Properties
+>- 1. Creating a new Employee Report [Output](#7_5)
+>- 2. Alignment Properties [Output](#7_5)
+>- 3. Border and Fill Properties [Output](#7_5)
+>- 4. Other Text Box Properties [Output](#7_5)
+>- 5. Group and Tablix Properties [Output](#7_5)
+>- 6. Chart Properties [Output](#7_5)
+
+10. Functions
+>- 1. Program Flow Functions (IIF, CHOOSE, SWITCH) [Output](#7_5)
+>- 2. Aggregate functions [Output](#7_5)
+>- 3. Math functions [Output](#7_5)
+>- 4. Text functions [Output](#7_5)
+>- 5. Date and time functions [Output](#7_5)
+>- 6. Other functions [Output](#7_5)
 
 ### 2_4
 ![image](https://github.com/hashinil/SSRS/assets/33922245/8efa83a9-7305-4d10-afc7-cd2e175e036f)
@@ -85,3 +113,6 @@ ORDER BY [Product Name], [List Price]
 
 ### 6_4
 ![image](https://github.com/hashinil/SSRS/assets/33922245/6aa357ee-3383-491d-bc53-271a21ec12df)
+
+### 6_5
+![image](https://github.com/hashinil/SSRS/assets/33922245/53c0843a-55d9-4cd7-a2f2-354b0b7fbe1c)
