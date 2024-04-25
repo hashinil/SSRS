@@ -42,10 +42,10 @@
 
 8. Graphical Reports
 >- 1. Creating a pie chart [Output](#8_1)
->- 2. Expanding the pie chart [Output](#7_5)
->- 3. Creating a bar chart [Output](#7_5)
->- 4. Expanding the chart and adding a Matrix [Output](#7_5)
->- 5. Mapping data [Output](#7_5)
+>- 2. Expanding the pie chart [Output](#8_2)
+>- 3. Creating a bar chart [Output](#8_3)
+>- 4. Expanding the chart and adding a Matrix [Output](#8_4)
+>- 5. Mapping data [Output](#8_5)
 
 9. Object Properties
 >- 1. Creating a new Employee Report [Output](#7_5)
@@ -137,3 +137,8 @@ Font color, background, Indicator, databar
 ![image](https://github.com/hashinil/SSRS/assets/33922245/66c7d384-9bfc-4d36-b69e-b2e82ff91387)
 
 ### 8_3
+![image](https://github.com/hashinil/SSRS/assets/33922245/ded658fc-8fc6-40a0-85c8-391780ac53d8)
+![image](https://github.com/hashinil/SSRS/assets/33922245/6bb44823-8eff-4fbd-a7ef-e9affab383a1)
+
+
+
