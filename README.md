@@ -8,7 +8,7 @@
 
 2. Preparing to create reports
 >- 1. Ceate Project on VS SSRS
->- 2. Resrore backup on SSMS
+>- 2. Resrore backup on SSMS [Download Backup](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms#download-backup-files)
 >- 3. Connect DB to SSRS project 
 >- 4. Shared Data sources [Output](#2_4)
 >- 5. Shared Datasets [Output](#2_5)
