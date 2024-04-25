@@ -48,12 +48,14 @@
 >- 5. Mapping data [Output](#8_5)
 
 9. Object Properties
->- 1. Creating a new Employee Report [Output](#7_5)
->- 2. Alignment Properties [Output](#7_5)
->- 3. Border and Fill Properties [Output](#7_5)
->- 4. Other Text Box Properties [Output](#7_5)
->- 5. Group and Tablix Properties [Output](#7_5)
->- 6. Chart Properties [Output](#7_5)
+>- 1. Creating a new Employee Report [Output](#9_1)
+>- 2. Alignment Properties [Output](#9_2)
+>- 3. Border and Fill Properties [Output](#9_3)
+>- 4. Other Text Box Properties [Output](#9_4)
+>- 5. Group and Tablix Properties [Output](#9_5)
+>- 6. Chart Properties [Output](#9_6)
+
+
 
 10. Functions
 >- 1. Program Flow Functions (IIF, CHOOSE, SWITCH) [Output](#7_5)
@@ -140,5 +142,10 @@ Font color, background, Indicator, databar
 ![image](https://github.com/hashinil/SSRS/assets/33922245/ded658fc-8fc6-40a0-85c8-391780ac53d8)
 ![image](https://github.com/hashinil/SSRS/assets/33922245/6bb44823-8eff-4fbd-a7ef-e9affab383a1)
 
+### 8_4
+![image](https://github.com/hashinil/SSRS/assets/33922245/fc4b38b3-1da2-4518-961d-5f38835a0352)
+![image](https://github.com/hashinil/SSRS/assets/33922245/8ca16154-9478-4a0c-98ac-25948fc7202f)
 
+### 8_5
+![image](https://github.com/hashinil/SSRS/assets/33922245/02659c73-9c1b-4226-83cd-29344fb75f63)
 
