@@ -47,15 +47,13 @@
 >- 4. Expanding the chart and adding a Matrix [Output](#8_4)
 >- 5. Mapping data [Output](#8_5)
 
-9. Object Properties
->- 1. Creating a new Employee Report [Output](#9_1)
->- 2. Alignment Properties [Output](#9_2)
->- 3. Border and Fill Properties [Output](#9_3)
->- 4. Other Text Box Properties [Output](#9_4)
->- 5. Group and Tablix Properties [Output](#9_5)
->- 6. Chart Properties [Output](#9_6)
-
-
+9. Object Properties [Output](#9)
+>- 1. Creating a new Employee Report
+>- 2. Alignment Properties
+>- 3. Border and Fill Properties
+>- 4. Other Text Box Properties
+>- 5. Group and Tablix Properties
+>- 6. Chart Properties
 
 10. Functions
 >- 1. Program Flow Functions (IIF, CHOOSE, SWITCH) [Output](#7_5)
@@ -148,4 +146,7 @@ Font color, background, Indicator, databar
 
 ### 8_5
 ![image](https://github.com/hashinil/SSRS/assets/33922245/02659c73-9c1b-4226-83cd-29344fb75f63)
+![image](https://github.com/hashinil/SSRS/assets/33922245/b8c503c6-0b9b-49f9-9ae5-2d23eff675ba)
 
+### 9
+In this section we learn formatting report output
