@@ -1,0 +1,121 @@
+-- ----------------------------------------------------------------------------------------------
+-- Activity 1
+-- ----------------------------------------------------------------------------------------------
+ 
+1. Start a new project
+2. Connect to your data source (the AdventureWorks Data Source)
+3. Create the Report Wizard to create a new report using a non-shared data set. Please use this SQL code:
+
+select D. DepartmentID, D.Name as DepartmentName, D.GroupName
+       , min(StartDate) as EarliestStartDate
+       , sum(Rate) as TotalRate
+from [HumanResources].[Department] as D
+left join [HumanResources].[EmployeeDepartmentHistory] as E
+on D.DepartmentID = E.DepartmentID
+left join [HumanResources].[EmployeePayHistory] as EH
+on E.BusinessEntityID = EH.BusinessEntityID
+group by D. DepartmentID, D.Name, D.GroupName;
+
+4. Create a table showing the GroupName, DepartmentName, TotalRate and EarliestStartDate fields.
+5. Change the Page Setup to Landscape.
+
+-- ----------------------------------------------------------------------------------------------
+-- Activity 2
+-- ----------------------------------------------------------------------------------------------
+
+1. In your Practice Activities solution, create a Shared Dataset using the following code:
+
+select D. DepartmentID, D.Name as DepartmentName, D.GroupName
+       , min(StartDate) as EarliestStartDate
+       , sum(Rate) as TotalRate
+from [HumanResources].[Department] as D
+left join [HumanResources].[EmployeeDepartmentHistory] as E
+on D.DepartmentID = E.DepartmentID
+left join [HumanResources].[EmployeePayHistory] as EH
+on E.BusinessEntityID = EH.BusinessEntityID
+group by D. DepartmentID, D.Name, D.GroupName
+2. Create a new report not using the wizard, using the Shared Dataset.
+3. Add a tabular table.
+4. Insert the fields GroupName, DepartmentName, TotalRate and EarliestStartDate into the tabular table.
+5. Change the background colour of the header to Green.
+6. Change the foreground colour of the header to blue.
+7. Change the column containing the GroupName to Italic and right aligned.
+8. Change the column containing the DepartmentName to Bold and middle aligned.
+9. Add a tool tip to the top-left cell, saying "This is the Group Name".
+
+-- ----------------------------------------------------------------------------------------------
+-- Activity 3
+-- ----------------------------------------------------------------------------------------------
+
+Let's continue from our previous Practice Activity. 
+
+1. Format the TotalRate field to the format C2.
+2. Format the EarliestStartDate to a format which shows the month and year.
+3. Sort the table by the DepartmentName field.
+3. Group the table by the GroupName field. 
+4. Add visibility to the detail field - set it to initially Hide, and show it when you expand the GroupName field.
+5. Repeat the headers on every single page.
+6. Add a page break at the start of each group.
+
+-- ----------------------------------------------------------------------------------------------
+-- Activity 4
+-- ----------------------------------------------------------------------------------------------
+
+1. Create a Shared Dataset using the following code
+
+select D. DepartmentID, D.Name as DepartmentName, D.GroupName from [HumanResources].[Department] as D 
+
+2. Create a second Shared Dataset using the following code:
+
+select EH.DepartmentID,JobTitle, BirthDate, MaritalStatus, Gender,StartDate, EndDate
+from [HumanResources].[EmployeeDepartmentHistory] as EH
+join [HumanResources].[Employee] as E
+on EH.BusinessEntityID = E.BusinessEntityID
+
+3. Create two new reports, each one using the two new Shared Datasets:
+
+Report 1. Use the fields GroupName and DepartmentName. Include DepartmentID temporarily if you wish to.
+Report 2. In the second report, use all of the fields, including DepartmentID temporarily.
+
+4. Link the first report to the second report using a parameter. The two reports should be joined by the DepartmentID field.
+
+In other words, if you click on a row in the first report, the second report should open with all of the relevant rows based on the relevant DepartmentID field.
+
+You should modify the second Shared Dataset to the following:
+
+select EH.DepartmentID,JobTitle, BirthDate, MaritalStatus, Gender,StartDate, EndDate
+from [HumanResources].[EmployeeDepartmentHistory] as EH
+join [HumanResources].[Employee] as E
+on EH.BusinessEntityID = E.BusinessEntityID
+where EH.DepartmentID = @paramDepartmentID
+
+-- ----------------------------------------------------------------------------------------------
+-- Activity 5
+-- ----------------------------------------------------------------------------------------------
+1. In the second report from the last Practice Activity (which I called PA4_2), add a header and footer:
+
+Include a text box, a picture, a line, and a text box including the page number.
+
+2. Using the shared dataset DataSetPA4-1, 
+add  a drop-down list to the list of parameters. 
+You should use the DepartmentID as the Values, and DepartmentName as the Labels. 
+
+3. Change the second report (PA4_2) to allow multiple values to be selected.
+
+Reminder: you will need to change the SQL code from
+where EH.DepartmentID = @paramDepartmentID 
+to
+where EH.DepartmentID IN (@paramDepartmentID) 
+
+-- ----------------------------------------------------------------------------------------------
+-- Activity 6
+-- ----------------------------------------------------------------------------------------------
+Let's go back to the report you created in Practice Activity 1.
+
+1. Add a parent group using the field GroupName. Add a total to the TotalRate field on each group.
+
+2. Add Interactive Sorting on the TotalRate field and on the EarliestStartDate.
+
+3 Add a gauge based on the TotalRate field.
+
+4. Add a Document Map based on the GroupName.
